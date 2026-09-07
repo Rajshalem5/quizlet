@@ -1,4 +1,4 @@
-# Quiz Generator - AI-Powered Quiz Generation from Documents
+# Quizlet - AI-Powered Quiz Generation from Documents
 
 A full-stack quiz generator that automatically creates high-quality multiple-choice questions from documents (PPTX/PDF/DOCX/TXT) with citation tracking and quality verification.
 
